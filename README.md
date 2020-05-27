@@ -3,3 +3,4 @@
 ## Feature List
 
 + A pleasent theme
++ Vim keybindings for scrolling
