@@ -2,4 +2,4 @@
 
 ## Feature List
 
-+ Xresources support
++ A pleasent theme
